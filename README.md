@@ -1,1 +1,1 @@
-# rsschool-cv
+https://sserafimm.github.io/rsschool-cv/cv
