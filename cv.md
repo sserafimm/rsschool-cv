@@ -1,5 +1,5 @@
 # Polina Budkova
-### Junior Frontend Developer
+### Frontend Developer
 
 ---
 
@@ -51,14 +51,14 @@ Your task is to write a function maskify, which changes all but the last four ch
 ```javascript
 // return masked string
 function maskify(cc) {
-  let masked = '';
-  let lastFour = cc.substr(-4);
+  let keyy = '';
+  let symbols = cc.substr(-4);
 
   for (var i = 0; i < cc.length - 4; i++) {
-    masked += '#';
+    keyy += '#';
   }
 
-  return masked + lastFour;
+  return keyy + symbols;
 
 }
 ```
