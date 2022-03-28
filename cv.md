@@ -68,4 +68,5 @@ function maskify(cc) {
 
 - English \- Intermediate <br>
 - Russian \- Native
+- Belarusian \- Native
 - Korean \- Basic
