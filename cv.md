@@ -31,7 +31,6 @@
 -	Responsibility and ability to meet deadlines.
 
 
-
 ### Skills and Proficiency:
 
 - HTML5, CSS3
