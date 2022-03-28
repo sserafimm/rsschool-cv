@@ -7,7 +7,7 @@
 
 **Phone:** +375291380211<br>
 **email:** budkovapo@gmail.com<br>
-[Telegram] (https://t.me/ucancallmeidol)<br>
+[Telegram](https://t.me/ucancallmeidol)<br>
 [LinkedIn](https://www.linkedin.com/in/sserafimm/)<br>
 
 ---
