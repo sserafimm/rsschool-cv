@@ -66,6 +66,6 @@ function maskify(cc) {
 
 ### Languages:
 
-- English \- Intermediate/Upper-intermediate <br>
+- English \- Intermediate <br>
 - Russian \- Native
 - Korean \- Basic
